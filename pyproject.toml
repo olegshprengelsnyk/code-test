@@ -17,6 +17,6 @@ keywords = [
     "Pip"
 ]
 
-[tool.poetry.group.test.dependencies]
+[tool.poetry.dependencies]
 python = "^3.8"
 
